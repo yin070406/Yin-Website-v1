@@ -83,10 +83,11 @@ body{
 
 .buttons-github{
   margin-left: 55px;
-}
-
-.buttons-yt{
-  margin-left: 40px;
+  display: block;
+  margin-right: auto;
+  width: 5%;
+  margin-top: 150px;
+  border-radius: 50%;
 }
 
 .discord{
