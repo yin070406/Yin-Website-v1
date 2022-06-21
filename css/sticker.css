@@ -1,5 +1,6 @@
 body{
     background-image: url(../image/image06.jpg);
+    object-fit: cover;
 }
 
 .images{
